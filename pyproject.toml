@@ -1,0 +1,10 @@
+[project]
+name = "teamnest"
+version = "0.1.0"
+description = "Employee management system built with Django"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "django>=6.1.1",
+    "pillow>=12.3.0",
+]
